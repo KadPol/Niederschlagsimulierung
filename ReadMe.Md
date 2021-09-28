@@ -5,7 +5,7 @@
 ### Polat, Kadir and Salhi, Hamza: "Vorhersage von Zeitreihen durch Nutzung von Machine Learning-Ansätzen am Beispiel einer Niederschlagabflussmodellierug"
 
 # Get Started
-### To run the code without any problems consider following steps
+### To run the code without any problems consider following steps.
 
 ### 1) Create an environment to install the packages definded in requirements.txt. It's on you whether you create the environment with conda or Venv.
 
@@ -15,15 +15,15 @@
 
 # Project structure
 
-### ./data: whole camels dataset for all basins is in this folder streamflow dataset included
+### ./data: whole camels dataset for all basins is in this folder streamflow dataset included.
 
-### ./data_daymet: whole daymet dataset for all basins is in this folder streamflow dataset is included. Each basin is saved in a separeted folder. For example: ./data/9494000: with the specific number of Mesa
+### ./data_daymet: whole daymet dataset for all basins is in this folder streamflow dataset is included. Each basin is saved in a separeted folder. For example: ./data/9494000: with the specific number of Mesa.
 
-### ./scripts: all addional external function needed for the notebook can be find in scripts. In this case dataio, getData, preProcess, model and postProcess files are included in scripts folder
+### ./scripts: all addional external function needed for the notebook can be find in scripts. In this case dataio, getData, preProcess, model and postProcess files are included in scripts folder.
 
 # Run the Code
 
-### For reproducing the figures you can run the ./XYZ.ipynb via Jupyter Notebook. Start the server by running jupyter notebook and choose your needed environment.
+### For reproducing the figures you can run the Streamflow_prediction.ipynb via Jupyter Notebook. Choose your needed environment and start the server by running jupyter notebook.
 
 # License
 
