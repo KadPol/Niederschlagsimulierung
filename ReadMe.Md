@@ -1,8 +1,10 @@
 # Comparison of streamflow modelling of choosen citites between a standard Long Short-Term Memory Network (LSTM) and a combined Convolutional Neuronal Network with Long Short-Term Memory Network (CNNLSTM)
 
-### This notebooks reproduces the results related to the abstract "Vorhersage von Zeitreihen durch Nutzung von Machine Learning-Ansätzen am Beispiel einer Niederschlagabflussmodellierug"
+### This notebooks reproduces the results related to the abstract "Machine learning-based time-series prediction for rainfall-runoff modeling"
 
-### Polat, Kadir and Salhi, Hamza: "Vorhersage von Zeitreihen durch Nutzung von Machine Learning-Ansätzen am Beispiel einer Niederschlagabflussmodellierug"
+### Polat, Kadir and Salhi, Hamza: "Machine learning-based time-series prediction for rainfall-runoff modeling"
+
+### Find the paper here: https://medium.com/@p.kadir/machine-learning-based-time-series-prediction-for-rainfall-runoff-modeling-604d0760392e
 
 # Get Started
 ### To run the code without any problems consider following steps.
